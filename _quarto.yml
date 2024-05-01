@@ -6,11 +6,9 @@ project:
 
 website:
   title: "Vishal Katti"
-  site-url: https://courses.vishalkatti.com
+  site-url: https://learnwith.vishalkatti.com
   description: "Learn with Katti"
   favicon: "VK Logo.png"
-
-  image: "VK Logo.png"
   navbar:
     logo: "VK Logo.png"
     search: true
