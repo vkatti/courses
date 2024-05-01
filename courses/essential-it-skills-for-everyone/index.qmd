@@ -6,7 +6,7 @@ image: image.png
 css: media.css
 categories: [Foundation, Live Course, Excel, PowerPoint, Word, AI Tools]
 share:
-  permalink: "https://vishalkatti.com/courses/essential-it-skills-for-everyone"
+  permalink: "https://learnwith.vishalkatti.com/courses/essential-it-skills-for-everyone"
   description: "Check out this live, online and multilingual interactive course on Excel, PowerPoint and Word. Learn the latest features, get tips and tricks on how to use AI Tools, Career Guidance and Bonus Resources worth 💲💲💲"
   twitter: true
   facebook: true
