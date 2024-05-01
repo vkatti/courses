@@ -23,8 +23,6 @@ website:
         href: https://twitter.com/vishal_katti
       - icon: mastodon
         href: https://fosstodon.org/@vishalkatti
-      - icon: rss
-        file: index.xml
   page-footer: 
     left: Vishal Katti {{< fa regular copyright >}} 2024<br>made with 💖 and [Quarto](https://quarto.org)
     right: 
@@ -34,14 +32,6 @@ website:
         href: https://twitter.com/vishal_katti
       - icon: mastodon
         href: https://fosstodon.org/@vishalkatti
-        
-  twitter-card: 
-    title: "Learn With Katti"
-    image: "VK Logo.png"
-    creator: "@vishal_katti"
-    site: "@vishal_katti"
-    
-  open-graph: true
 format:
   html:
     theme: 
