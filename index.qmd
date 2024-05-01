@@ -1,7 +1,7 @@
 ---
-title: "courses"
+title: "Learn with Katti"
 listing:
-  contents: posts
+  contents: courses
   sort: "date desc"
   type: default
   categories: true

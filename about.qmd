@@ -1,19 +1,43 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Vishal Katti"
+format: 
+  html:
+    toc: false
 about:
+  id: hero-heading
   template: jolla
+  image: profile.png
+  image-shape: round
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: Twitter-X
+      href: https://twitter.com/vishal_katti
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+      href: https://www.linkedin.com/in/vishalkatti
 ---
 
-About this blog
+Vishal Katti resides in Bengaluru, India with his wife and 6yo daughter, but constantly longs for the sun and sands of Goa 🌞🏖️🌴 where he spent most of his childhood.
+
+## Education
+
+**Jain University**, *Bengaluru, India*\
+Masters in Business Administration (MBA) specializing in Business Intelligence and Analytics \| Jan 2023 - Jan 2025
+
+
+**Dr. B. R. Ambedkar National Institute of Technology (NIT)** *Jalandhar, Punjab, India*\
+Bachelor of Technology in Instrumentation & Control Engineering \| Aug 2005 - Apr 2010
+
+**Smt. Parvatibai Chowgule College of Arts & Science** *Margao, Goa, India*\
+H.S.S.C. in Physics, Chemistry and Mathematics \| Jun 2003 - Apr 2005
+
+## Experience
+
+**LTIMindtree Ltd.** *Bengaluru, India* \
+Associate Principal - Data Sciences \| Sep 2021 to Present
+
+**ExxonMobil Services & Technology Pvt. Ltd.** *Bengaluru, India* \
+Business Analytics Advisor \| Jun 2018 - Aug 2021
+
+**Tata Consultancy Services** *Mumbai, India* \
+Functional Consultant/Data Analyst \| Sep 2010 - Jun 2018
