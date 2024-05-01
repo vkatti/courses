@@ -7,7 +7,7 @@ project:
 website:
   title: "Vishal Katti"
   site-url: https://learnwith.vishalkatti.com
-  description: "Learn with Katti"
+  description: "Learn With Katti"
   favicon: "VK Logo.png"
   navbar:
     logo: "VK Logo.png"
@@ -36,7 +36,7 @@ website:
         href: https://fosstodon.org/@vishalkatti
         
   twitter-card: 
-    title: "learn with Katti"
+    title: "Learn With Katti"
     image: "VK Logo.png"
     creator: "@vishal_katti"
     site: "@vishal_katti"
