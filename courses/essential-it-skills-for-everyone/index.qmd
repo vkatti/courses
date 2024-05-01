@@ -32,8 +32,6 @@ By the end of this 1-week course, you will understand how to leverage these tool
 <a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 32px; cursor: pointer; border-radius: 5px;display: block; width: 100%;">Enroll Now, limited seats only! </a>
 :::
 
-
-
 ## How is this course different from others?
 
 There are many online courses on Udemy, Coursera, Edureka etc., which are probably priced the same or even less than this course. Then why should you take this course❓
@@ -55,8 +53,6 @@ This course aims to establish a strong foundation in Excel, PowerPoint and Word 
 ::: {style="text-align: center;"}
 <a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 32px; cursor: pointer; border-radius: 5px;display: block; width: 100%;">Awesome! Sign me up! --\></a>
 :::
-
-
 
 ## What will you get?
 
@@ -143,14 +139,11 @@ A curated list of AI Tools will be demonstrated which will help not only cement 
 <a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 32px; cursor: pointer; border-radius: 5px;display: block; width: 100%;">Great! Let's go already! --\></a>
 :::
 
-
-
 ## Batch Timings
 
 Registrations are currently open for **June, July and August 2024** batches.
 
 It is a 5-day program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian Standard Time (IST)**.
-
 
 ## Enroll Now!! {#register}
 
@@ -158,10 +151,15 @@ It is a 5-day program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian St
 ## Terms and Conditions
 
 1.  **Deadline for Registration:** The final date for registration for a batch is 2 days before the start of the batch
+
 2.  **Cancellation Policy:** Should a registrant wish to cancel their registration; they may do so freely until the aforementioned deadline and get a FULL REFUND. Any cancellation requests received after this time will get PARTIAL REFUND of their Registration Fees minus a penalty of ₹ 500/- up until the commencement of the course. Once a batch starts, all registrations become final, and NO REFUND will be issued under any circumstances.
+
 3.  **Change of Batch:** This is subject to availability of free slots in other scheduled batches.
+
 4.  **Punctuality and Attendance:** Participants are expected to adhere to scheduled session times punctually, respecting the time commitments of all involved.
+
 5.  **Live Course Content:** We encourage participants to engage actively during sessions, as the course is conducted live and does not offer recorded content for review.
+
 6.  **Certificate of Completion:** Participants who attend all 5 days of a batch and submit the final assignment within 7 days of batch completion will be given a Certificate of Completion
 :::
 
