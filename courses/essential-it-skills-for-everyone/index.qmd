@@ -20,29 +20,41 @@ No matter who you are, it is highly unlikely that your life is not influenced by
 By the end of this 1-week course, you will understand how to leverage these tools to effectively bump up your productivity, and save hours of precious time for yourself.
 
 ::: {style="text-align: center;"}
-<a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 32px; cursor: pointer; border-radius: 5px;display: block; width: 100%;">Enroll Now, limited seats only! </a>
+<a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 16px; cursor: pointer; border-radius: 5px;display: inline-block; width: 50%;">Enroll Now, limited seats only! </a>
 :::
 
 ## How is this course different from others?
 
 There are many online courses on Udemy, Coursera, Edureka etc., which are probably priced the same or even less than this course. Then why should you take this course❓
 
-| Topic                                   | Other Online Courses                                                       | Essential IT Skills for Everyone                                                                                  |
-|------------------|----------------------|--------------------------------|
-| **Mode of Instruction**                 | 💢 Recorded Videos                                                         | ✅ Live and Online                                                                                                |
-| **Interaction with Instructor**         | 💢 Minimal or None. No scope to get real-time answers to specific problems | ✅ Full Fledged Video Interaction with real-time answers addressing your specific questions                       |
-| **Interaction with other participants** | 💢 Limited or through comments only or self-learning only.                 | ✅ Batch-wise WhatsApp group for collaborative learning and sharing of experiences                                |
-| **Language of Instruction**             | 💢 Single Language (usually English)                                       | ✅ Multi-lingual (English, Hindi, Marathi and/or Kannada)                                                         |
-| **Course Content**                      | 💢 Fixed and outdated!                                                     | ✅ Latest Features and techniques, syllabus gets updated with new features launched for Excel, PowerPoint or Word |
-| **Best Practices**                      | 💢 Minimal or non-existent                                                 | ✅ Special attention to inculcate industry-approved best practices at every step                                  |
-| **Individual Attention**                | 💢 Minimal                                                                 | ✅ Guaranteed Individual attention due to small batch size (20 persons only)                                      |
-| **Helpful Add-ins and AI Tools**        | 💢 Minimal                                                                 | ✅ Curated list of Add-Ins and AI Tools for enhanced learning and Productivity                                    |
-| **Career Guidance**                     | 💢 Non Existent                                                            | ✅ Individual advice for all participants                                                                         |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Topic                                   | Other Online Courses                                   | Essential IT Skills for Everyone                                                                                        |
++=========================================+========================================================+=========================================================================================================================+
+| **Mode of Instruction**                 | 💢 Recorded Videos                                     | ✅ Live and Online                                                                                                      |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Interaction with Instructor**         | 💢 Minimal or None.                                    | ✅ Full Fledged Video Interaction with LIVE answers to address your specific questions                                  |
+|                                         |                                                        |                                                                                                                         |
+|                                         | No scope to get real-time answers to specific problems |                                                                                                                         |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Interaction with other participants** | 💢 Non-existent or Limited through comments only       | ✅ Batch-wise WhatsApp group for collaborative learning and sharing experiences                                         |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Language of Instruction**             | 💢 Single Language (usually English)                   | ✅ Multi-lingual (English, Hindi, Marathi and/or Kannada)                                                               |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Course Content**                      | 💢 Fixed and outdated!                                 | ✅ Latest features and techniques; Course content gets updated with new features launched for Excel, PowerPoint or Word |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Best Practices**                      | 💢 Minimal or Non-existent                             | ✅ Special attention to inculcate industry-approved best practices at every step                                        |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Individual Attention**                | 💢 Minimal                                             | ✅ Guaranteed Individual attention due to small batch size (20 persons only)                                            |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Helpful Add-ins and AI Tools**        | 💢 Minimal                                             | ✅ Curated list of Add-Ins and AI Tools for enhanced learning and improved productivity                                 |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Career Guidance**                     | 💢 Non Existent                                        | ✅ Tailored guidance for each participant throughout the training!                                                      |
++-----------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
-This course aims to establish a strong foundation in Excel, PowerPoint and Word along with Industry-certified best practices and helpful AI tools. This course will also ignite your brain with ideas about report automation and documentation.
+For an absolute [PAISA VASOOL](https://en.wiktionary.org/wiki/paisa_vasool "What does this mean? Click to check in Wikitionary"){target="_blank"} experience, LOCK-IN your spot and put your doubts to rest!
 
 ::: {style="text-align: center;"}
-<a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 32px; cursor: pointer; border-radius: 5px;display: block; width: 100%;">Awesome! Sign me up! --\></a>
+<a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 16px; cursor: pointer; border-radius: 5px;display: inline-block; width: 50%;">Book My Spot Now!</a>
 :::
 
 ## What will you get?
@@ -67,13 +79,13 @@ Day 2
 
 Day 3
 
--   Introduction to Presentations (MS PowerPoint)
+-   Introduction to MS PowerPoint
 -   MS PowerPoint Basics (Animations, Transitions, 3D Models)
 -   Bonus track
 
 Day 4
 
--   Introduction to Documents (MS Word)
+-   Introduction to MS Word
 -   MS Word Basic (Table of Contents, Insert Tables, Images, Linking, Mail Merge)
 -   Bonus Track
 
@@ -103,13 +115,13 @@ The Instructor is well-versed in English, Hindi, Marathi and Kannada. He also un
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 🌟 Personalized Attention
 
-With a small batch size of only 20 participants, the Instructor promises that you get personalized attention guaranteeing an experience worth every penny! For an absolute [paisa-vasool](https://en.wiktionary.org/wiki/paisa_vasool "What does this mean? Click to check in Wikitionary"){target="_blank"} experience, make sure that you come with an open mind, ready to learn and be open to new ideas.
+With a small batch size of only 20 participants, the Instructor promises that you get personalized attention guaranteeing an experience worth every penny! Get answers to all your questions and more!
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 😎 AI Tools
 
-A curated list of AI Tools will be demonstrated which will help not only cement your learning but also help you boost your productivity while using Excel, PowerPoint and Word!
+The Instructor will demonstrate a curated list of AI Tools which will help not only cement your learning but also help boost your productivity while using Excel, PowerPoint and Word!
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
@@ -126,15 +138,15 @@ A curated list of AI Tools will be demonstrated which will help not only cement 
 💲 A Referral Code to earn your money back!!!
 :::
 
-::: {style="text-align: center;"}
-<a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 32px; cursor: pointer; border-radius: 5px;display: block; width: 100%;">Great! Let's go already! --\></a>
+::: {style="text-align: center;align:center;"}
+<a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 16px; cursor: pointer; border-radius: 5px;display: inline-block; width: 50%;">Great! Sign Me Up!</a>
 :::
 
 ## Batch Timings
 
 Registrations are currently open for **June, July and August 2024** batches.
 
-It is a 5-day program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian Standard Time (IST)**.
+It is a 1-week program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian Standard Time (IST)**.
 
 ## Enroll Now!! {#register}
 
@@ -143,7 +155,7 @@ It is a 5-day program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian St
 
 1.  **Deadline for Registration:** The final date for registration for a batch is 2 days before the start of the batch
 
-2.  **Cancellation Policy:** Should a registrant wish to cancel their registration; they may do so freely until the aforementioned deadline and get a FULL REFUND. Any cancellation requests received after this time will get PARTIAL REFUND of their Registration Fees minus a penalty of ₹ 500/- up until the commencement of the course. Once a batch starts, all registrations become final, and NO REFUND will be issued under any circumstances.
+2.  **Cancellation Policy:** Should a registrant wish to cancel their registration; they may do so freely until the aforementioned deadline and get a **FULL REFUND**. Any cancellation requests received after this time will get **PARTIAL REFUND** of their Registration Fees minus a penalty of ₹ 500/- up until the commencement of the course. Once a batch starts, all registrations become final, and **NO REFUND** will be issued under any circumstances.
 
 3.  **Change of Batch:** This is subject to availability of free slots in other scheduled batches.
 
@@ -164,7 +176,7 @@ function displayTC() {
   var checkBox = document.getElementById("tc");
   var text = document.getElementById("registerlink");
   if (checkBox.checked == true){
-    text.style.display = "block";
+    text.style.display = "inline-block";
   } else {
      text.style.display = "none";
   }
@@ -174,5 +186,5 @@ function displayTC() {
 <input type="checkbox" id="tc" onclick="displayTC()"> <label for="tc">I hereby declare that I have read and agree to the Terms & Conditions.</label>
 
 ::: {#registerlink style="text-align: center;display:none;"}
-<a href="https://pages.razorpay.com/EITS4E" target="_blank"  style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center; font-size: 32px; cursor: pointer; text-decoration:none; border-radius: 5px;display: block; width: 100%;">CLICK TO REGISTER</a>
+<a href="https://pages.razorpay.com/EITS4E" target="_blank"  style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center; font-size: 16px; cursor: pointer; text-decoration:none; border-radius: 5px;display: inline-block; width: 50%;">Click to Register</a>
 :::
