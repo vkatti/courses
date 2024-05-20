@@ -3,7 +3,9 @@ title: "Learn with Katti"
 listing:
   contents: courses
   sort: "date desc"
-  type: default
+  type: grid
+  grid-columns: 3
+  grid-item-border: true
   categories: true
   sort-ui: false
   filter-ui: false

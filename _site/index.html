@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -218,21 +218,18 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Foundation,Live Course,Excel,PowerPoint,Word,AI Tools" data-listing-file-modified-sort="1714657922315" data-listing-reading-time-sort="13" data-listing-word-count-sort="2481">
-<div class="thumbnail">
-<p><a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external"></a></p><a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external">
-<p><img src="./courses/essential-it-skills-for-everyone/image2.png" class="thumbnail-image"></p>
-</a><p><a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external">Essential IT Skills for Everyone</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external">This 1-week course is a live, online and multilingual interactive course on <strong>Excel</strong>, <strong>PowerPoint</strong> and <strong>Word</strong>. Build a strong foundation, learn the latest features, get tips and tricks on how to use AI Tools, career guidance and bonus resources worth 💲💲💲</a>
-</div>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Foundation,Live Course,Excel,PowerPoint,Word,AI Tools" data-listing-file-modified-sort="1716214018724" data-listing-reading-time-sort="13" data-listing-word-count-sort="2481">
+<a href="./courses/essential-it-skills-for-everyone/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./courses/essential-it-skills-for-everyone/image2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Essential IT Skills for Everyone
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Foundation'); return false;">
 Foundation
@@ -253,14 +250,17 @@ Word
 AI Tools
 </div>
 </div>
-<div class="listing-description">
-<a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external">No matter who you are, it is highly unlikely that your life is not influenced by these tools or by people using these tools.</a>
+<div class="card-text listing-description">
+No matter who you are, it is highly unlikely that your life is not influenced by these tools or by people using these tools.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
 </div>
 </div>
-<div class="metadata">
-<p><a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external"></a></p><a href="./courses/essential-it-skills-for-everyone/index.html" class="no-external">
+</div>
+</div>
 </a>
-</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
