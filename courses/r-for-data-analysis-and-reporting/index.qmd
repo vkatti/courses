@@ -1,6 +1,6 @@
 ---
-title: "{{< fa brands r-project >}} for Data Analysis and Reporting"
-subtitle: "This 1-week course is a live, online and multilingual interactive course which introduces the **{{< fa brands r-project >}}** programming language. Build a strong foundation in Data Analysis, get familiar with industry-approved best practices in using RStudio Desktop, get career guidance, tips & tricks on how to use AI Tools, and bonus resources worth 💲💲💲"
+title: "R for Data Analysis and Reporting"
+subtitle: "This 1-week course is a live, online and multilingual interactive course which introduces the **R** programming language. Build a strong foundation in Data Analysis, get familiar with industry-approved best practices in using RStudio Desktop, get career guidance, tips & tricks on how to use AI Tools, and bonus resources worth 💲💲💲"
 image: Rlogo.png
 include-in-header: 
   file: meta.txt
