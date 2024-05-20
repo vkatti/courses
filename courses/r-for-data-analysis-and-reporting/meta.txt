@@ -1,0 +1,20 @@
+<!-- Primary Meta Tags -->
+<title>R for Data Analysis and Reporting</title>
+<meta name="title" content="R for Data Analysis and Reporting" />
+<meta name="description" content="This 1-week course is a live, online and multilingual interactive course which introduces the R programming language. Build a strong foundation in Data Analysis, get familiar with industry-approved best practices in using RStudio Desktop, get career guidance, tips and tricks on how to use AI Tools, and bonus resources worth 💲💲💲" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://learnwith.vishalkatti.com/courses/r-for-data-analysis-and-reporting/" />
+<meta property="og:title" content="R for Data Analysis and Reporting" />
+<meta property="og:description" content="This 1-week course is a live, online and multilingual interactive course which introduces the R programming language. Build a strong foundation in Data Analysis, get familiar with industry-approved best practices in using RStudio Desktop, get career guidance, tips and tricks on how to use AI Tools, and bonus resources worth 💲💲💲" />
+<meta property="og:image" content="Rlogo.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://learnwith.vishalkatti.com/courses/r-for-data-analysis-and-reporting/" />
+<meta property="twitter:title" content="R for Data Analysis and Reporting" />
+<meta property="twitter:description" content="This 1-week course is a live, online and multilingual interactive course which introduces the R programming language. Build a strong foundation in Data Analysis, get familiar with industry-approved best practices in using RStudio Desktop, get career guidance, tips and tricks on how to use AI Tools, and bonus resources worth 💲💲💲" />
+<meta property="twitter:image" content="Rlogo.png" />
+
+<!-- Meta Tags Generated with https://metatags.io -->
