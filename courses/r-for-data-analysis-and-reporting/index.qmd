@@ -1,12 +1,14 @@
 ---
 title: "R for Data Analysis and Reporting"
 subtitle: "This 1-week course is a live, online and multilingual interactive course which introduces the **R** programming language. Build a strong foundation in Data Analysis, get familiar with industry-approved best practices in using RStudio Desktop, get career guidance, tips & tricks on how to use AI Tools, and bonus resources worth 💲💲💲"
-image: Rlogo.png
+image: image.png
 include-in-header: 
   file: meta.txt
 css: media.css
 categories: [Foundation, Live Course, R, RStudio Desktop, Data Analysis, Reporting, AI Tools]
 ---
+
+![](image.png){.lightbox style="width:100%" fig-align="center"}
 
 ## Accelerate your career with expertise in Data Analysis and Reporting with {{< fa brands r-project >}} {.unnumbered .unlisted}
 
@@ -14,9 +16,17 @@ By the end of this 1-week course, you will understand how to leverage R and RStu
 
 ## Why R?
 
-R is a powerful programming language commonly used for statistical computing and data analysis. It has a large and active community, which makes it easy to find help when you need it. R has a simple and easy-to-learn syntax, making it a good choice for beginners. Additionally, R is open-source and free to use, which means you don't need to spend money to learn it. R is also widely used in many industries, such as finance, healthcare, and technology, which means you will have many job opportunities once you learn it. Learning R will also help you in data visualization, machine learning and statistical analysis which are useful skills in today's data-driven world.
+R is a **powerful** programming language commonly used for statistical computing and data analysis. It has a **large and active community**, which makes it easy to find help when you need it.
+
+R has a simple and easy-to-learn syntax, making it a good choice for beginners. Additionally, R is **open-source** and **free to use**, which means you don't need to spend money to learn it.
+
+Learning R will also help you in data visualization, **machine learning** and statistical analysis which are useful skills in today's data-driven world.
 
 > “R is not a language driven by the purity of its philosophy; R is a language designed to get shit done.” — @hadleywickham, rstudioconf2022.
+
+![](companies-using-R.png){.lightbox style="width:100%" fig-align="center"}
+
+R is also widely used in many industries, such as finance, healthcare, and technology, which means you will have many job opportunities once you learn it.
 
 ::: {style="text-align: center;"}
 <a href="#register" style="background-color: #8C52FF; color: white; padding: 15px 30px; text-align: center;text-decoration:none; font-size: 16px; cursor: pointer; border-radius: 5px;display: inline-block; width: 50%;">Enroll Now, limited seats only! </a>
@@ -58,7 +68,7 @@ For an absolute [PAISA VASOOL](https://en.wiktionary.org/wiki/paisa_vasool "What
 
 ## What will you get?
 
-The course content has been specially curated by Vishal Katti, who is also the Instructor for this course. The course introduces the {{< fa brands r-project >}} Programming Language and demonstrates why it is a game-changer for data analysts who want to elevate their data skills. The Instructor demonstrates some game-changing data manipulation techniques and operations that will radicalize your way of thinking about data.
+The course content has been specially curated by Vishal Katti, who is also the Instructor for this course. The course introduces the {{< fa brands r-project >}} Programming Language and demonstrates why it is a game-changer for data analysts who want to elevate their data skills. The Instructor demonstrates some interesting data manipulation techniques and operations that will radicalize your way of thinking about data.
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 🎓 Expert-Curated Curriculum
@@ -110,31 +120,31 @@ The course content has been specially curated by Vishal Katti, who is also the I
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 🚀 LIVE Webinar with Hands-On Experience with Labs.
 
-This course is going to be Live, which means you will be able to interact with the Instructor in real-time. No more recorded videos where the presenter doesn't pay attention to you or your chat messages!!
+This course is going to be **Live**, which means you will be able to interact with the Instructor in **real-time**. No more recorded videos where the presenter doesn't pay attention to you or your chat messages!!
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 💬 Multilingual Interaction
 
-The Instructor is well-versed in English, Hindi, Marathi and Kannada. He also understands Konkani and Punjabi but not enough to respond in the same language. This means that you can ask a question in any of these languages and expect an answer to your specific question immediately.
+The Instructor is well-versed in **English**, **Hindi**, **Marathi** and **Kannada**. He also understands **Konkani** and **Punjabi** but not enough to respond in the same language. This means that you can ask a question in any of these languages and expect **an answer to your specific question immediately.**
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 🌟 Personalized Attention
 
-With a small batch size of only 10 participants, the Instructor promises that you get personalized attention guaranteeing an experience worth every penny! Get answers to all your questions and more!
+With a small batch size of only 10 participants, the Instructor promises that you get **personalized attention guaranteeing** an experience worth every penny! Get answers to all your questions and more!
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 🟢 1-on-1 Support
 
-Participants can avail 1-on-1 support via WhatsApp chat during office hours! T&C Apply.
+Participants can avail **1-on-1 support** via WhatsApp chat during office hours! See the Terms and Conditions for specifics.
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
 ## 😎 AI Tools
 
-The Instructor will demonstrate a curated list of AI Tools which will help not only cement your learning but also help boost your productivity while using {{< fa brands r-project >}}!
+The Instructor will demonstrate a **curated list of AI Tools** which will help not only cement your learning but also help boost your **productivity** while using {{< fa brands r-project >}}!
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;" icon="false"}
@@ -161,6 +171,16 @@ It is a 1-week program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian S
 
 ## Enroll Now!! {#register}
 
+
+```{=html}
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vishal-katti/1-on-1?hide_gdpr_banner=1&primary_color=8c52ff'});return false;">Still not convinced? Book a call and let&#39;s talk 1-on-1.</a>
+<!-- Calendly link widget end -->
+```
+---
+
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;"}
 ## Terms and Conditions
 
@@ -182,6 +202,8 @@ It is a 1-week program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian S
 ::: column-margin
 ![](click-to-open.png){.hide-on-mobile}
 :::
+
+
 
 ```{=html}
 <script>

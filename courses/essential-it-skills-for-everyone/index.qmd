@@ -8,6 +8,8 @@ css: media.css
 categories: [Foundation, Live Course, Excel, PowerPoint, Word, AI Tools]
 ---
 
+![](image2.png){.lightbox style="width:100%" fig-align="center"}
+
 ## Accelerate your career with expertise in Excel, PowerPoint and Word! {.unnumbered .unlisted}
 
 -   It doesn't matter if you are an under-graduate student or a working professional.
@@ -149,6 +151,16 @@ Registrations are currently open for **June, July and August 2024** batches.
 It is a 1-week program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian Standard Time (IST)**.
 
 ## Enroll Now!! {#register}
+
+```{=html}
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vishal-katti/1-on-1?hide_gdpr_banner=1&primary_color=8c52ff'});return false;">Still not convinced? Book a call and let&#39;s talk 1-on-1.</a>
+<!-- Calendly link widget end -->
+```
+
+---
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;"}
 ## Terms and Conditions

@@ -14,9 +14,11 @@ website:
     search: true
     right:
       - text: "About the Instructor"
-        file: about.qmd
+        href: https://vishalkatti.com/about
       - text: "Courses"
         file: index.qmd
+      - text: "Book a Call"
+        href: https://calendly.com/vishal-katti
       - icon: linkedin
         href: https://www.linkedin.com/in/vishalkatti
       - icon: twitter

@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -116,12 +119,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="https://vishalkatti.com/about"> 
 <span class="menu-text">About the Instructor</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Courses</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://calendly.com/vishal-katti"> 
+<span class="menu-text">Book a Call</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/vishalkatti"> <i class="bi bi-linkedin" role="img">
@@ -192,6 +199,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="image2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="image2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100%"></a></p>
+</figure>
+</div>
 <section id="accelerate-your-career-with-expertise-in-excel-powerpoint-and-word" class="level2 unnumbered unlisted">
 <h2 class="unnumbered unlisted anchored" data-anchor-id="accelerate-your-career-with-expertise-in-excel-powerpoint-and-word">Accelerate your career with expertise in Excel, PowerPoint and Word!</h2>
 <ul>
@@ -422,6 +434,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="register" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="register">Enroll Now!!</h2>
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async=""></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vishal-katti/1-on-1?hide_gdpr_banner=1&amp;primary_color=8c52ff'});return false;">Still not convinced? Book a call and let's talk 1-on-1.</a>
+<!-- Calendly link widget end -->
+<hr>
 <div class="callout callout-style-default callout-note callout-titled" style="border-left-color: #8C52FF;">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -888,6 +906,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","openEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
