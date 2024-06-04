@@ -133,7 +133,7 @@ The Instructor will demonstrate a curated list of AI Tools which will help not o
 
 🎯 Guided Workbook for Practicing Excel Functions worth \$500
 
-⚡ Excel Add-in with Time-saving VBA Macros worth \$1000
+⚡ Excel Add-in with Time-saving VBA Macros worth \$500
 
 🤩 50 ready-to-use PowerPoint Templates worth \$200
 
@@ -146,7 +146,7 @@ The Instructor will demonstrate a curated list of AI Tools which will help not o
 
 ## Batch Timings
 
-Registrations are currently open for **June, July and August 2024** batches.
+Registrations are currently open for **July and August 2024** batches.
 
 It is a 1-week program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian Standard Time (IST)**.
 
@@ -160,7 +160,7 @@ It is a 1-week program from **Monday to Friday, from 9:00 PM - 11:00 PM Indian S
 <!-- Calendly link widget end -->
 ```
 
----
+------------------------------------------------------------------------
 
 ::: {.callout-note collapse="true" style="border-left-color: #8C52FF;"}
 ## Terms and Conditions
